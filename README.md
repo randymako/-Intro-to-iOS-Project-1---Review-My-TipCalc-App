@@ -7,4 +7,5 @@ Known issues: I couldn't change the phone size to an iPhone 6 nor could I change
 
 Hours Logged as of 08/31/15 - 1.5
 
-![alt tag](https://raw.github.com/urandymako/-Intro-to-iOS-Project-1---Review-My-TipCalc-App/branch/path/to/TipCalc.gif)
+
+![tipcalc](https://cloud.githubusercontent.com/assets/12131281/9595872/44edad54-5021-11e5-91ed-d76600007d85.gif)
